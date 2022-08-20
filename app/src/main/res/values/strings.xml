@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Live IMC</string>
+    <string name="title">BMI</string>
+    <string name="calc_title">Calculate</string>
+    <string name="weight">Weight: 85</string>
+    <string name="height">Height: 1.75</string>
+    <string name="weight_text">Weight</string>
+    <string name="height_text">Height</string>
+    <string name="calculate">Calculate</string>
+</resources>

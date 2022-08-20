@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Live IMC</string>
+    <string name="title">IMC</string>
+    <string name="calc_title">Calculadora</string>
+    <string name="weight">Peso: 85</string>
+    <string name="height">Altura: 1.75</string>
+    <string name="weight_text">Peso</string>
+    <string name="height_text">Altura</string>
+    <string name="calculate">Calcular</string>
+</resources>
